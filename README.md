@@ -32,7 +32,7 @@ A modern Java Swing application for downloading and managing EaglercraftX versio
 ## Installation
 
 1. **Requirements**:
-   - Java 8 or higher
+   - Java 21 or higher
    - Internet connection for downloads
 
 2. **Running the Application**:
