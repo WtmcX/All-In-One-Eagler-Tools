@@ -37,6 +37,6 @@ A modern Java Swing application for downloading and managing EaglercraftX versio
 
 2. **Running the Application**:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
-   java -jar EaglercraftLauncher.jar
+   git clone https://github.com/WtmcX/All-In-One-Eagler-Tools.git
+   cd All-In-One-Eagler-Tools
+   java -jar allinoneeagler.jar
